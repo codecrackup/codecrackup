@@ -14,8 +14,7 @@
 
 ### 🛠️ Tech Stack  
 **Languages:**  
-Python, HTML, CSS  
-
+Python, C, CSS
 **Libraries:**  
 NumPy, Pandas, Selenium, Scikit-Learn  
 
@@ -25,23 +24,19 @@ Git, Linux, VS Code, Jupyter Notebook
 ---
 
 ### 📊 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=codecrackup&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=codecrackup&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codecrackup&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=codecrackup&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codecrackup&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=codecrackup&theme=tokyonight)
+
 
 ---
 
 ### 📂 Featured Projects  
-- 🧮 **Pandas Data Analysis**  
-- 🤖 **Selenium Automation Bot**  
-- 📊 **Machine Learning Models**  
-- 🧹 **OS Automation Scripts**  
-
-(Links add kar dena jab projects upload ho jaye)
+ 
 
 ---
 
 ### 🤝 Connect With Me  
-- Email: your-email@gmail.com  
+- Email: codecrackup@gmail.com 
