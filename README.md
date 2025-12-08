@@ -1,16 +1,47 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Darshan</h1>
+<h3 align="center">Python Developer | Learning ML, AI & Automation</h3>
 
-<!--
-**codecrackup/codecrackup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me  
+- 🔭 I’m currently learning **Pandas, Selenium & Machine Learning**  
+- 🌱 Getting better at **NumPy, Data Analysis & Automation**  
+- 🤖 Dream: Build my own AI assistant / LLM  
+- 💻 I love working on **small practical projects daily**  
+- ⚡ Fun fact: I break code just to fix it 😎  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack  
+**Languages:**  
+Python, HTML, CSS  
+
+**Libraries:**  
+NumPy, Pandas, Selenium, Scikit-Learn  
+
+**Tools:**  
+Git, Linux, VS Code, Jupyter Notebook  
+
+---
+
+### 📊 GitHub Stats  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+
+---
+
+### 📂 Featured Projects  
+- 🧮 **Pandas Data Analysis**  
+- 🤖 **Selenium Automation Bot**  
+- 📊 **Machine Learning Models**  
+- 🧹 **OS Automation Scripts**  
+
+(Links add kar dena jab projects upload ho jaye)
+
+---
+
+### 🤝 Connect With Me  
+- Email: your-email@gmail.com  
