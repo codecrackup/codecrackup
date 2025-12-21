@@ -7,8 +7,7 @@
 - 🔭 I’m currently learning **Pandas, Selenium & Machine Learning**  
 - 🌱 Getting better at **NumPy, Data Analysis & Automation**  
 - 🤖 Dream: Build my own AI assistant / LLM  
-- 💻 I love working on **small practical projects daily**  
-- ⚡ Fun fact: I break code just to fix it 😎  
+- 💻 I love working on **small practical projects daily**    
 
 ---
 
