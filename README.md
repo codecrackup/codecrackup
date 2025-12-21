@@ -13,8 +13,11 @@
 ---
 
 ### 🛠️ Tech Stack  
-**Languages:** Python, C, CSS
-**Libraries:** NumPy, Pandas, Selenium, Scikit-Learn  
+**Languages:** 
+Python, C, CSS
+
+**Libraries:** 
+NumPy, Pandas, Selenium, Scikit-Learn  
 
 **Tools:**  
 Git, Linux, VS Code, Jupyter Notebook  
