@@ -44,7 +44,7 @@
 
 <h2>📂 Featured Projects</h2>
 
-<h3>🌐 Personal Flask Website</h3>
+<h3>🌐 CodeCrackUp(Website)</h3>
 <p>
 My <b>first Flask-based static website</b>, built for learning and practice.
 </p>
