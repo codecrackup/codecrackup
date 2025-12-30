@@ -60,7 +60,7 @@ templates, and how the backend connects with the frontend.
 </p>
 
 <p>
-<b>Tech Used:</b> Python, Flask, HTML, CSS, Git, Xammpp Server 
+<b>Tech Used:</b> Python, Flask, HTML, CSS, Git, Xampp Server 
 </p>
 
 <hr>
