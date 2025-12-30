@@ -19,7 +19,6 @@
 <ul>
   <li>Python</li>
   <li>C</li>
-  <li>CSS</li>
 </ul>
 
 <h3>📚 Libraries & Frameworks</h3>
