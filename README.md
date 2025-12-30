@@ -27,7 +27,6 @@
   <li>NumPy</li>
   <li>Pandas</li>
   <li>Selenium</li>
-  <li>Scikit-learn</li>
   <li>Flask</li>
 </ul>
 
