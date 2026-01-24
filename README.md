@@ -18,6 +18,7 @@
 <h3>💻 Languages</h3>
 <ul>
   <li>Python</li>
+  <li>MicroPython</li>
   <li>C</li>
 </ul>
 
@@ -36,6 +37,8 @@
   <li>VS Code</li>
   <li>Jupyter Notebook</li>
   <li>PyCharm</li>
+  <li>Raspberry PI pico</li>
+  
 </ul>
 
 <hr>
