@@ -5,8 +5,8 @@
 
 <h2>🚀 About Me</h2>
 <ul>
-  <li>🔭 Currently learning <b>Pandas, Selenium & Machine Learning</b></li>
-  <li>🌱 Improving skills in <b>NumPy, Data Analysis & Automation</b></li>
+  <li>🔭 Currently learning <b>Machine Learning & Artificial Intelligence</b></li>
+  <li>🌱 Improving skills in <b>Pandas, Data Analysis & Automation</b></li>
   <li>🤖 Dream: Build my own <b>AI Assistant / LLM</b></li>
   <li>💻 Love working on <b>small practical projects daily</b></li>
 </ul>
@@ -26,6 +26,7 @@
 <ul>
   <li>NumPy</li>
   <li>Pandas</li>
+  <li>Matplotlib</li>
   <li>Selenium</li>
   <li>Flask</li>
 </ul>
